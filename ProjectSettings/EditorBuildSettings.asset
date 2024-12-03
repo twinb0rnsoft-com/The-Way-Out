@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/GameMain.unity
+    guid: dc769ff89a2716b4e8683a39764baa44
+  - enabled: 1
+    path: Assets/Scene/HelpScene.unity
+    guid: 045909e29dd6f5542aec524c849ee69d
+  - enabled: 1
+    path: Assets/Scene/Prologue.unity
+    guid: 379ba19433f4d454292d34c1c994a1ac
+  - enabled: 1
+    path: Assets/Scene/Level 1.unity
+    guid: 55089a529036de34f9e08ba3ce7349e9
+  - enabled: 1
+    path: Assets/Scene/Level2.unity
+    guid: 031367820fe3ba3459f4a11658635c78
+  - enabled: 1
+    path: Assets/Scene/FinalBossLevel.unity
+    guid: 3450d0d08c0ef5b4a8b410980d40b6ed
+  - enabled: 1
+    path: Assets/Scene/ShopV2.unity
+    guid: 227e93ecd1da66245a865ff556e39c4f
+  - enabled: 1
+    path: Assets/Scene/ShopErrorWindow.unity
+    guid: a3e0456c144cb4f9496eced5f3bcf2e8
+  - enabled: 1
+    path: Assets/Scene/DeathScene.unity
+    guid: 779cb33d6faae9b469028fe07c2b02b0
+  - enabled: 1
+    path: Assets/Scene/ShopPopup.unity
+    guid: 3d016f805ee0e2445a301257c4f02407
+  - enabled: 1
+    path: Assets/Scene/Ending.unity
+    guid: 41c6a74c51a432042b900a1641dfb971
+  - enabled: 0
+    path: Assets/Scene/Main.unity
+    guid: abb71129eb973a946a6e22cda84e4c74
+  - enabled: 0
+    path: Assets/Scene/Level 3.unity
+    guid: 86085011f8345fc4eb90504fbcad550d
+  - enabled: 0
+    path: Assets/Scene/Level 4.unity
+    guid: 5555f79e4002fd54595b0a28c677bb4a
+  - enabled: 0
+    path: Assets/Scene/New Scene.unity
+    guid: 9dc94b9ae64c5f24785728f78694edd2
+  - enabled: 0
+    path: Assets/Scene/NavMeshTest.unity
+    guid: 89ba33f0171a6704f950b853690775cd
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000

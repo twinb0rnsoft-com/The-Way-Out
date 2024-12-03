@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftWall
+  - Fire
+  - Dream Token
+  - monsters
+  - heartHealth
+  - box2
+  - boundaryVertA
+  - boundaryVertB
+  - boundaryHoriA
+  - boundaryHoriB
+  - boundaryV
+  - boundaryH
+  - boundaryV2
+  - boundaryH2
+  - ShopTokenCount
+  - rock
+  - vicSword
+  - hammer
+  - hSword
+  - crossbow
+  - raygun
+  - lightgun
+  - axe
+  - donebutton
+  - door
+  - SoulShard
+  - healthpack
+  - Weapon Pickup
+  - Ability
+  - buyHealthPotion
+  - buySpeedPotion
+  - buyHealthBlock
+  - test
+  - patrolPoint
+  - FinalBoss
+  - fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SpriteLights
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

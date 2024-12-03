@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Way Out - Seafood", "Assembly-CSharp.csproj", "{4F2D7B0F-2059-3A6D-8DB8-4A12001D18EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Way Out - Seafood", "Assembly-CSharp-Editor.csproj", "{406E8E4E-39EA-8DE4-F150-E990DB7F902F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2D7B0F-2059-3A6D-8DB8-4A12001D18EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2D7B0F-2059-3A6D-8DB8-4A12001D18EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2D7B0F-2059-3A6D-8DB8-4A12001D18EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2D7B0F-2059-3A6D-8DB8-4A12001D18EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406E8E4E-39EA-8DE4-F150-E990DB7F902F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406E8E4E-39EA-8DE4-F150-E990DB7F902F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406E8E4E-39EA-8DE4-F150-E990DB7F902F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406E8E4E-39EA-8DE4-F150-E990DB7F902F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

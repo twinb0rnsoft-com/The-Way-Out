@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1eadbe9aa6f0c47c3948e742186bbf36
+timeCreated: 1511990224
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maze
+  fontNames:
+  - Maze
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
